@@ -135,7 +135,13 @@ https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&content
 
 ## ⭐Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=happycola233/tchMaterial-parser&type=Date)](https://star-history.com/#happycola233/tchMaterial-parser&Date)
+<a href="https://www.star-history.com/?repos=happycola233%2FtchMaterial-parser&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=happycola233/tchMaterial-parser&type=date&theme=dark&legend=top-left&sealed_token=rHSHeJm9apLZ5Joxfm_nKzQRzW4EQw8dyYHQIl5FSwpAfvm9WUwaMj4vQGTKluRUKTQq7IC7__9VDfWZMNnFWxZrVAs0hQBSINIWWdzocR3AqO4iP4R2EA" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=happycola233/tchMaterial-parser&type=date&legend=top-left&sealed_token=rHSHeJm9apLZ5Joxfm_nKzQRzW4EQw8dyYHQIl5FSwpAfvm9WUwaMj4vQGTKluRUKTQq7IC7__9VDfWZMNnFWxZrVAs0hQBSINIWWdzocR3AqO4iP4R2EA" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=happycola233/tchMaterial-parser&type=date&legend=top-left&sealed_token=rHSHeJm9apLZ5Joxfm_nKzQRzW4EQw8dyYHQIl5FSwpAfvm9WUwaMj4vQGTKluRUKTQq7IC7__9VDfWZMNnFWxZrVAs0hQBSINIWWdzocR3AqO4iP4R2EA" />
+ </picture>
+</a>
 
 ## 🤝 贡献指南
 
